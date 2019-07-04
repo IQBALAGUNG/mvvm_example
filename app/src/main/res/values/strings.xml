@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mvvm Example</string>
+
+    <string name="required_value">Isi Kolom</string>
+</resources>
